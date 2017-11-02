@@ -23,12 +23,6 @@ public class SampleResourceTest {
   }
 
   @Test
-  public void dummyTest() {
-    try {
-      throw new RuntimeException("sdfsa");
-    } catch (Exception ex) {
-      ex.printStackTrace();
-    }
-  }
+  public void dummyTest() {}
 
 }
